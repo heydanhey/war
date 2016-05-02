@@ -1,2 +1,2 @@
 # war
-Implementation in ruby of classic and poinless card card.
+Implementation in ruby of the classic card game.
