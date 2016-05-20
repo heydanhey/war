@@ -154,3 +154,5 @@ else
     puts "PLAYER A is the WINNER!!!!!!!!!!!!!"
 end
 
+#Thanks for playing
+
